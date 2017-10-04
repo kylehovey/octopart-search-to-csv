@@ -1,0 +1,24 @@
+{
+  "name": "octopart-search-to-csv",
+  "version": "1.0.0",
+  "description": "Search OctoPart and generate a CSV of results.",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylehovey/octopart-search-to-csv.git"
+  },
+  "author": "Kyle Hovey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylehovey/octopart-search-to-csv/issues"
+  },
+  "homepage": "https://github.com/kylehovey/octopart-search-to-csv#readme",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.3"
+  }
+}
